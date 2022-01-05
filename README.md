@@ -1,4 +1,4 @@
-# Insurance-_Price
+# Insurance_Price
 Insurance price prediction
 
 Data Analysis 
@@ -9,7 +9,9 @@ Train Test Split
 
 Linear Regression model
 
-New Data,Trained Linear Regression model
+New Data
+
+Trained Linear Regression model
 
 Insurence cost predection
 
